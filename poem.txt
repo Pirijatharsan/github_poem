@@ -1,6 +1,6 @@
-Hello Guys  -> first commit
+Hello Guys  -> first commit       the Rainbow  and  unicorn and ferry
 my Second Hiiiiiii        -> second commit
 my third  msg is Welcome
 adding some text to make the conflict
 my fourth msg for branch-checking
-Unicon branch updating
+
