@@ -4,4 +4,5 @@ my third  msg is Welcome
 adding some text to make the conflict
 my fourth msg for branch-checking
 add this text for fork
-tomorrow is diwali
+tomorrow is Diwali
+update final Diwali
